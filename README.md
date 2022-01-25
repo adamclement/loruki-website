@@ -1,5 +1,5 @@
-# Lokuri Cloud Hosting Website
+# Loruki Cloud Hosting Website
 
 Traversy Media Responsive Website Tutorial
 
-> Fake cloud hosting website [Live Preview](https://cloudhost-lokuri.netlify.app/)
+> Fake cloud hosting website [Live Preview](cloudhost-loruki.netlify.app)
